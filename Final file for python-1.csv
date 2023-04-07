@@ -1,0 +1,169 @@
+﻿Table Names,Year,Month,Mean Temp.,Total Precip (mm),Year-1,Month-1,Zone ,Sex,Frequency,Frequency of suicide excluding drug toxicity suicide deaths (i.e. drug overdose)
+weather till 2012.csv,2009,Jan,-7.7,128.1,2009,Jan,Nova Scotia,Total,10,9
+weather till 2012.csv,2009,Feb,-4.5,92.1,2009,Feb,Nova Scotia,Total,9,7
+weather till 2012.csv,2009,Mar,-1.7,156.2,2009,Mar,Nova Scotia,Total,13,9
+weather till 2012.csv,2009,Apr,5.4,158.8,2009,Apr,Nova Scotia,Total,6,5
+weather till 2012.csv,2009,May,10.8,88.6,2009,May,Nova Scotia,Total,13,9
+weather till 2012.csv,2009,Jun,,,2009,Jun,Nova Scotia,Total,10,8
+weather till 2012.csv,2009,Jul,17.6,71,2009,Jul,Nova Scotia,Total,11,7
+weather till 2012.csv,2009,Aug,19.9,179.6,2009,Aug,Nova Scotia,Total,17,11
+weather till 2012.csv,2009,Sep,13.7,73,2009,Sep,Nova Scotia,Total,6,4
+weather till 2012.csv,2009,Oct,6.9,166.9,2009,Oct,Nova Scotia,Total,16,10
+weather till 2012.csv,2009,Nov,5.6,95.1,2009,Nov,Nova Scotia,Total,14,12
+weather till 2012.csv,2009,Dec,-2.5,149.6,2009,Dec,Nova Scotia,Total,8,5
+weather till 2012.csv,2010,Jan,-4.1,92.4,2010,Jan,Nova Scotia,Total,10,9
+weather till 2012.csv,2010,Feb,-3.2,72,2010,Feb,Nova Scotia,Total,9,6
+weather till 2012.csv,2010,Mar,2.1,93,2010,Mar,Nova Scotia,Total,14,12
+weather till 2012.csv,2010,Apr,7.3,39.9,2010,Apr,Nova Scotia,Total,12,12
+weather till 2012.csv,2010,May,11.1,48,2010,May,Nova Scotia,Total,11,8
+weather till 2012.csv,2010,Jun,15.2,99.6,2010,Jun,Nova Scotia,Total,4,4
+weather till 2012.csv,2010,Jul,19.8,125.2,2010,Jul,Nova Scotia,Total,12,6
+weather till 2012.csv,2010,Aug,19.4,65.3,2010,Aug,Nova Scotia,Total,5,5
+weather till 2012.csv,2010,Sep,16.3,117.5,2010,Sep,Nova Scotia,Total,7,7
+weather till 2012.csv,2010,Oct,9.2,153.6,2010,Oct,Nova Scotia,Total,6,6
+weather till 2012.csv,2010,Nov,4.1,226.3,2010,Nov,Nova Scotia,Total,5,4
+weather till 2012.csv,2010,Dec,0.7,191,2010,Dec,Nova Scotia,Total,8,5
+weather till 2012.csv,2011,Jan,-4.6,112.4,2011,Jan,Nova Scotia,Total,8,8
+weather till 2012.csv,2011,Feb,-5.4,166.2,2011,Feb,Nova Scotia,Total,6,5
+weather till 2012.csv,2011,Mar,-0.9,67.8,2011,Mar,Nova Scotia,Total,12,11
+weather till 2012.csv,2011,Apr,4.9,124.2,2011,Apr,Nova Scotia,Total,7,5
+weather till 2012.csv,2011,May,10.6,124.2,2011,May,Nova Scotia,Total,14,10
+weather till 2012.csv,2011,Jun,13.7,144.3,2011,Jun,Nova Scotia,Total,11,7
+weather till 2012.csv,2011,Jul,18.8,94.3,2011,Jul,Nova Scotia,Total,6,4
+weather till 2012.csv,2011,Aug,18.5,135.6,2011,Aug,Nova Scotia,Total,16,14
+weather till 2012.csv,2011,Sep,16,43.1,2011,Sep,Nova Scotia,Total,7,6
+weather till 2012.csv,2011,Oct,10.3,334.8,2011,Oct,Nova Scotia,Total,11,7
+weather till 2012.csv,2011,Nov,5.2,191.9,2011,Nov,Nova Scotia,Total,5,3
+weather till 2012.csv,2011,Dec,0.5,183.9,2011,Dec,Nova Scotia,Total,11,8
+weather till 2012.csv,2012,Jan,-3.7,120.7,2012,Jan,Nova Scotia,Total,14,11
+weather till 2012.csv,2012,Feb,-4,106.9,2012,Feb,Nova Scotia,Total,5,3
+weather till 2012.csv,2012,Mar,1.9,64.5,2012,Mar,Nova Scotia,Total,12,8
+weather till 2012.csv,2012,Apr,6,91.4,2012,Apr,Nova Scotia,Total,15,9
+weather till 2012.csv,2012,May,11.8,101.8,2012,May,Nova Scotia,Total,12,11
+weather till 2012.csv,2012,Jun,14.6,75.1,2012,Jun,Nova Scotia,Total,12,8
+weather till 2012.csv,2012,Jul,20,58.5,2012,Jul,Nova Scotia,Total,11,11
+weather till 2012.csv,2012,Aug,20.7,54.1,2012,Aug,Nova Scotia,Total,11,8
+weather till 2012.csv,2012,Sep,16.9,148.9,2012,Sep,Nova Scotia,Total,4,4
+weather_after 2012.xlsx/Sheet1,2012,Oct,10.8,103.7,2012,Oct,Nova Scotia,Total,12,10
+weather_after 2012.xlsx/Sheet1,2012,Nov,4,53.2,2012,Nov,Nova Scotia,Total,10,6
+weather_after 2012.xlsx/Sheet1,2012,Dec,0.1,155.4,2012,Dec,Nova Scotia,Total,8,5
+weather_after 2012.xlsx/Sheet1,2013,Jan,-7.1,20.8,2013,Jan,Nova Scotia,Total,11,9
+weather_after 2012.xlsx/Sheet1,2013,Feb,-4.6,110.1,2013,Feb,Nova Scotia,Total,8,6
+weather_after 2012.xlsx/Sheet1,2013,Mar,-0.6,19.1,2013,Mar,Nova Scotia,Total,8,5
+weather_after 2012.xlsx/Sheet1,2013,Apr,5,67.7,2013,Apr,Nova Scotia,Total,11,9
+weather_after 2012.xlsx/Sheet1,2013,May,10.4,99.8,2013,May,Nova Scotia,Total,9,8
+weather_after 2012.xlsx/Sheet1,2013,Jun,16.1,173.6,2013,Jun,Nova Scotia,Total,9,6
+weather_after 2012.xlsx/Sheet1,2013,Jul,21,110.9,2013,Jul,Nova Scotia,Total,15,10
+weather_after 2012.xlsx/Sheet1,2013,Aug,18.9,67.3,2013,Aug,Nova Scotia,Total,12,11
+weather_after 2012.xlsx/Sheet1,2013,Sep,14.9,122.3,2013,Sep,Nova Scotia,Total,4,2
+weather_after 2012.xlsx/Sheet1,2013,Oct,9.5,131.2,2013,Oct,Nova Scotia,Total,10,10
+weather_after 2012.xlsx/Sheet1,2013,Nov,2.6,184.5,2013,Nov,Nova Scotia,Total,13,9
+weather_after 2012.xlsx/Sheet1,2013,Dec,-4.2,197.9,2013,Dec,Nova Scotia,Total,5,4
+weather_after 2012.xlsx/Sheet1,2014,Jan,-4.4,241.1,2014,Jan,Nova Scotia,Total,8,6
+weather_after 2012.xlsx/Sheet1,2014,Feb,-5.1,131.6,2014,Feb,Nova Scotia,Total,7,5
+weather_after 2012.xlsx/Sheet1,2014,Mar,-4.1,165.4,2014,Mar,Nova Scotia,Total,8,3
+weather_after 2012.xlsx/Sheet1,2014,Apr,4.3,142.7,2014,Apr,Nova Scotia,Total,9,7
+weather_after 2012.xlsx/Sheet1,2014,May,9.3,31.9,2014,May,Nova Scotia,Total,7,6
+weather_after 2012.xlsx/Sheet1,2014,Jun,15.4,111.7,2014,Jun,Nova Scotia,Total,5,4
+weather_after 2012.xlsx/Sheet1,2014,Jul,20.2,78.8,2014,Jul,Nova Scotia,Total,15,13
+weather_after 2012.xlsx/Sheet1,2014,Aug,18.4,0.8,2014,Aug,Nova Scotia,Total,15,14
+weather_after 2012.xlsx/Sheet1,2014,Sep,14.8,72,2014,Sep,Nova Scotia,Total,12,11
+weather_after 2012.xlsx/Sheet1,2014,Oct,11.3,107,2014,Oct,Nova Scotia,Total,7,6
+weather_after 2012.xlsx/Sheet1,2014,Nov,3.7,210.9,2014,Nov,Nova Scotia,Total,9,5
+weather_after 2012.xlsx/Sheet1,2014,Dec,0.5,278,2014,Dec,Nova Scotia,Total,11,7
+weather_after 2012.xlsx/Sheet1,2015,Jan,-6.8,141.4,2015,Jan,Nova Scotia,Total,7,7
+weather_after 2012.xlsx/Sheet1,2015,Feb,-10,161.3,2015,Feb,Nova Scotia,Total,13,10
+weather_after 2012.xlsx/Sheet1,2015,Mar,-4.7,178.1,2015,Mar,Nova Scotia,Total,8,7
+weather_after 2012.xlsx/Sheet1,2015,Apr,2,103.3,2015,Apr,Nova Scotia,Total,8,8
+weather_after 2012.xlsx/Sheet1,2015,May,11.4,57,2015,May,Nova Scotia,Total,16,15
+weather_after 2012.xlsx/Sheet1,2015,Jun,13.3,154.1,2015,Jun,Nova Scotia,Total,12,9
+weather_after 2012.xlsx/Sheet1,2015,Jul,18.6,117.4,2015,Jul,Nova Scotia,Total,12,10
+weather_after 2012.xlsx/Sheet1,2015,Aug,20.7,76.1,2015,Aug,Nova Scotia,Total,21,17
+weather_after 2012.xlsx/Sheet1,2015,Sep,17.2,75.6,2015,Sep,Nova Scotia,Total,12,8
+weather_after 2012.xlsx/Sheet1,2015,Oct,8.6,190.4,2015,Oct,Nova Scotia,Total,7,6
+weather_after 2012.xlsx/Sheet1,2015,Nov,4.6,126.5,2015,Nov,Nova Scotia,Total,5,2
+weather_after 2012.xlsx/Sheet1,2015,Dec,1.5,156.9,2015,Dec,Nova Scotia,Total,14,12
+weather_after 2012.xlsx/Sheet1,2016,Jan,-4.3,149.1,2016,Jan,Nova Scotia,Total,19,18
+weather_after 2012.xlsx/Sheet1,2016,Feb,-2.1,147.3,2016,Feb,Nova Scotia,Total,13,11
+weather_after 2012.xlsx/Sheet1,2016,Mar,-1,145.2,2016,Mar,Nova Scotia,Total,9,7
+weather_after 2012.xlsx/Sheet1,2016,Apr,3.6,159.5,2016,Apr,Nova Scotia,Total,5,4
+weather_after 2012.xlsx/Sheet1,2016,May,10.7,100.1,2016,May,Nova Scotia,Total,12,8
+weather_after 2012.xlsx/Sheet1,2016,Jun,14.4,72.5,2016,Jun,Nova Scotia,Total,15,12
+weather_after 2012.xlsx/Sheet1,2016,Jul,19.5,73.4,2016,Jul,Nova Scotia,Total,16,11
+weather_after 2012.xlsx/Sheet1,2016,Aug,19.6,44.5,2016,Aug,Nova Scotia,Total,11,11
+weather_after 2012.xlsx/Sheet1,2016,Sep,16.1,84.5,2016,Sep,Nova Scotia,Total,5,4
+weather_after 2012.xlsx/Sheet1,2016,Oct,10.2,218.5,2016,Oct,Nova Scotia,Total,9,7
+weather_after 2012.xlsx/Sheet1,2016,Nov,4.8,130.5,2016,Nov,Nova Scotia,Total,14,14
+weather_after 2012.xlsx/Sheet1,2016,Dec,-2.9,183.5,2016,Dec,Nova Scotia,Total,6,5
+weather_after 2012.xlsx/Sheet1,2017,Jan,-3,163.4,2017,Jan,Nova Scotia,Total,15,14
+weather_after 2012.xlsx/Sheet1,2017,Feb,-3.4,165,2017,Feb,Nova Scotia,Total,8,7
+weather_after 2012.xlsx/Sheet1,2017,Mar,-3.5,129.5,2017,Mar,Nova Scotia,Total,11,9
+weather_after 2012.xlsx/Sheet1,2017,Apr,5.2,91,2017,Apr,Nova Scotia,Total,12,10
+weather_after 2012.xlsx/Sheet1,2017,May,10.2,156,2017,May,Nova Scotia,Total,7,5
+weather_after 2012.xlsx/Sheet1,2017,Jun,15.7,69.3,2017,Jun,Nova Scotia,Total,19,16
+weather_after 2012.xlsx/Sheet1,2017,Jul,18.6,145,2017,Jul,Nova Scotia,Total,15,14
+weather_after 2012.xlsx/Sheet1,2017,Aug,18.8,93.7,2017,Aug,Nova Scotia,Total,15,13
+weather_after 2012.xlsx/Sheet1,2017,Sep,16.6,142.1,2017,Sep,Nova Scotia,Total,5,5
+weather_after 2012.xlsx/Sheet1,2017,Oct,12.4,66.8,2017,Oct,Nova Scotia,Total,12,11
+weather_after 2012.xlsx/Sheet1,2017,Nov,4.1,144.5,2017,Nov,Nova Scotia,Total,8,7
+weather_after 2012.xlsx/Sheet1,2017,Dec,-2.6,180,2017,Dec,Nova Scotia,Total,11,9
+weather_after 2012.xlsx/Sheet1,2018,Jan,-4.5,154.6,2018,Jan,Nova Scotia,Total,11,9
+weather_after 2012.xlsx/Sheet1,2018,Feb,-1.2,159.7,2018,Feb,Nova Scotia,Total,13,12
+weather_after 2012.xlsx/Sheet1,2018,Mar,0.1,120.4,2018,Mar,Nova Scotia,Total,10,9
+weather_after 2012.xlsx/Sheet1,2018,Apr,4.1,204.2,2018,Apr,Nova Scotia,Total,13,9
+weather_after 2012.xlsx/Sheet1,2018,May,10.7,63.1,2018,May,Nova Scotia,Total,18,18
+weather_after 2012.xlsx/Sheet1,2018,Jun,13.6,178.1,2018,Jun,Nova Scotia,Total,12,7
+weather_after 2012.xlsx/Sheet1,2018,Jul,20.8,65.9,2018,Jul,Nova Scotia,Total,9,6
+weather_after 2012.xlsx/Sheet1,2018,Aug,21,58,2018,Aug,Nova Scotia,Total,17,14
+weather_after 2012.xlsx/Sheet1,2018,Sep,15.4,101.8,2018,Sep,Nova Scotia,Total,8,6
+weather_after 2012.xlsx/Sheet1,2018,Oct,7.9,207.5,2018,Oct,Nova Scotia,Total,8,5
+weather_after 2012.xlsx/Sheet1,2018,Nov,2.4,197.9,2018,Nov,Nova Scotia,Total,8,8
+weather_after 2012.xlsx/Sheet1,2018,Dec,-3.6,89.9,2018,Dec,Nova Scotia,Total,13,13
+weather_after 2012.xlsx/Sheet1,2019,Jan,-4.5,139.8,2019,Jan,Nova Scotia,Total,13,12
+weather_after 2012.xlsx/Sheet1,2019,Feb,-6.1,87.2,2019,Feb,Nova Scotia,Total,9,6
+weather_after 2012.xlsx/Sheet1,2019,Mar,-1.3,115.7,2019,Mar,Nova Scotia,Total,14,9
+weather_after 2012.xlsx/Sheet1,2019,Apr,4.9,185.1,2019,Apr,Nova Scotia,Total,15,9
+weather_after 2012.xlsx/Sheet1,2019,May,7.6,104.8,2019,May,Nova Scotia,Total,8,8
+weather_after 2012.xlsx/Sheet1,2019,Jun,14.7,166.6,2019,Jun,Nova Scotia,Total,14,13
+weather_after 2012.xlsx/Sheet1,2019,Jul,20,48.4,2019,Jul,Nova Scotia,Total,12,8
+weather_after 2012.xlsx/Sheet1,2019,Aug,19.7,77.1,2019,Aug,Nova Scotia,Total,13,11
+weather_after 2012.xlsx/Sheet1,2019,Sep,14.4,91.8,2019,Sep,Nova Scotia,Total,5,4
+weather_after 2012.xlsx/Sheet1,2019,Oct,9.5,124.5,2019,Oct,Nova Scotia,Total,11,11
+weather_after 2012.xlsx/Sheet1,2019,Nov,2.9,215.1,2019,Nov,Nova Scotia,Total,11,10
+weather_after 2012.xlsx/Sheet1,2019,Dec,-1.8,138.1,2019,Dec,Nova Scotia,Total,12,9
+weather_after 2012.xlsx/Sheet1,2020,Jan,-4.1,105.4,2020,Jan,Nova Scotia,Total,11,8
+weather_after 2012.xlsx/Sheet1,2020,Feb,-3.4,130.8,2020,Feb,Nova Scotia,Total,11,9
+weather_after 2012.xlsx/Sheet1,2020,Mar,-0.6,99.6,2020,Mar,Nova Scotia,Total,13,12
+weather_after 2012.xlsx/Sheet1,2020,Apr,3.7,149.3,2020,Apr,Nova Scotia,Total,10,10
+weather_after 2012.xlsx/Sheet1,2020,May,9.6,121.7,2020,May,Nova Scotia,Total,7,7
+weather_after 2012.xlsx/Sheet1,2020,Jun,16,33.2,2020,Jun,Nova Scotia,Total,9,4
+weather_after 2012.xlsx/Sheet1,2020,Jul,19.8,103,2020,Jul,Nova Scotia,Total,7,6
+weather_after 2012.xlsx/Sheet1,2020,Aug,19.8,105.8,2020,Aug,Nova Scotia,Total,10,10
+weather_after 2012.xlsx/Sheet1,2020,Sep,15.4,137,2020,Sep,Nova Scotia,Total,15,11
+weather_after 2012.xlsx/Sheet1,2020,Oct,9.4,116.4,2020,Oct,Nova Scotia,Total,8,6
+weather_after 2012.xlsx/Sheet1,2020,Nov,5.5,125.6,2020,Nov,Nova Scotia,Total,12,8
+weather_after 2012.xlsx/Sheet1,2020,Dec,2,140,2020,Dec,Nova Scotia,Total,8,7
+weather_after 2012.xlsx/Sheet1,2021,Jan,-2.9,96.1,2021,Jan,Nova Scotia,Total,13,9
+weather_after 2012.xlsx/Sheet1,2021,Feb,-4.2,178.9,2021,Feb,Nova Scotia,Total,7,6
+weather_after 2012.xlsx/Sheet1,2021,Mar,-0.1,111,2021,Mar,Nova Scotia,Total,10,6
+weather_after 2012.xlsx/Sheet1,2021,Apr,6.9,127.7,2021,Apr,Nova Scotia,Total,15,14
+weather_after 2012.xlsx/Sheet1,2021,May,10,111.7,2021,May,Nova Scotia,Total,14,13
+weather_after 2012.xlsx/Sheet1,2021,Jun,17.9,72.4,2021,Jun,Nova Scotia,Total,14,13
+weather_after 2012.xlsx/Sheet1,2021,Jul,18.6,123.5,2021,Jul,Nova Scotia,Total,11,11
+weather_after 2012.xlsx/Sheet1,2021,Aug,20.1,145.1,2021,Aug,Nova Scotia,Total,15,15
+weather_after 2012.xlsx/Sheet1,2021,Sep,16.2,152.8,2021,Sep,Nova Scotia,Total,10,8
+weather_after 2012.xlsx/Sheet1,2021,Oct,11.1,77.7,2021,Oct,Nova Scotia,Total,8,6
+weather_after 2012.xlsx/Sheet1,2021,Nov,4.6,186.6,2021,Nov,Nova Scotia,Total,15,14
+weather_after 2012.xlsx/Sheet1,2021,Dec,-0.7,161.4,2021,Dec,Nova Scotia,Total,13,12
+weather_after 2012.xlsx/Sheet1,2022,Jan,-5.4,161,2022,Jan,Nova Scotia,Total,12,9
+weather_after 2012.xlsx/Sheet1,2022,Feb,-4,184.7,2022,Feb,Nova Scotia,Total,19,15
+weather_after 2012.xlsx/Sheet1,2022,Mar,0.4,134.6,2022,Mar,Nova Scotia,Total,13,11
+weather_after 2012.xlsx/Sheet1,2022,Apr,5.5,125.4,2022,Apr,Nova Scotia,Total,12,11
+weather_after 2012.xlsx/Sheet1,2022,May,10.9,50.7,2022,May,Nova Scotia,Total,13,12
+weather_after 2012.xlsx/Sheet1,2022,Jun,15.5,147.4,2022,Jun,Nova Scotia,Total,14,13
+weather_after 2012.xlsx/Sheet1,2022,Jul,20.1,62.4,2022,Jul,Nova Scotia,Total,11,11
+weather_after 2012.xlsx/Sheet1,2022,Aug,21,76.1,2022,Aug,Nova Scotia,Total,13,9
+weather_after 2012.xlsx/Sheet1,2022,Sep,15.8,150.5,2022,Sep,Nova Scotia,Total,11,9
+weather_after 2012.xlsx/Sheet1,2022,Oct,11.8,113.1,2022,Oct,Nova Scotia,Total,14,9
+weather_after 2012.xlsx/Sheet1,2022,Nov,5.4,98.5,2022,Nov,Nova Scotia,Total,10,10
+weather_after 2012.xlsx/Sheet1,2022,Dec,0.7,166.7,2022,Dec,Nova Scotia,Total,7,7
